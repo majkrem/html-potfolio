@@ -1,2 +1,2 @@
 # html-potfolio
-Learning Full-Stack Webpages
+Learning Full-Stack
